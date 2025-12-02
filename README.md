@@ -16,6 +16,10 @@ Task 1: Calculator App (Android Development)
 ## 📸 Screenshot
 ![Calculator](screenshots/calculator.jpg)
 
+## APK Download (Github Release)
+Download APK: [https://github.com/pratiksha4529/SCT_AD_1/releases/download/v1.0/app-release.apk]
+Live Demo: https://pratiksha4529.github.io/SCT_AD_1/
+
 
 ## ✨ Features
 - Basic arithmetic operations (+, -, *, /)
@@ -34,7 +38,8 @@ Task 1: Calculator App (Android Development)
 - Handling operators & edge cases  
 - Using Git & GitHub  
 - Running app on emulator & physical device  
-- Building APK  
+- Building APK
+  
 
 ## 📥 Installation
 1. Download the APK  
@@ -46,3 +51,5 @@ This project is part of the SkillCraft Technology Internship Program.
 
 ## 👤 Author
 Pratiksha Pawar  
+🔗 GitHub Profile:
+https://github.com/pratiksha4529
