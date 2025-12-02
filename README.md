@@ -18,6 +18,7 @@ Task 1: Calculator App (Android Development)
 
 ## APK Download (Github Release)
 Download APK: [https://github.com/pratiksha4529/SCT_AD_1/releases/download/v1.0/app-release.apk]
+
 Live Demo: https://pratiksha4529.github.io/SCT_AD_1/
 
 
