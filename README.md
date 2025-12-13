@@ -20,7 +20,7 @@ Task 1: Calculator App (Android Development)
 [https://github.com/pratiksha4529/SCT_AD_1/blob/main/Calculator%20Screenshot.jpg]
 
 ## APK Download (Github Release)
-Download APK: [https://github.com/pratiksha4529/SCT_AD_2/releases/download/v1.0/app-release.apk]
+Download APK: [https://github.com/pratiksha4529/SCT_AD_1/releases/download/v1.0/app-release.apk]
 
 ## ✨ Features
 
